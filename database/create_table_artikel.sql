@@ -1,0 +1,5 @@
+CREATE TABLE artikel (
+    id INT(11) AUTO_INCREMENT PRIMARY KEY,
+    judul VARCHAR(255) NOT NULL,
+    isi TEXT NOT NULL
+)
